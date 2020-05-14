@@ -63,6 +63,9 @@ Each listed with 🛠 build tools and 🌿 note themes
   
 - [Chris Biscardi](https://www.christopherbiscardi.com/garden)
 
+- [Celz Alejandro] (http://celzalejandro.com/notes)
+  - 🛠 TiddlyWiki
+  
 - https://nurselog.online
 - https://notebook.wayanjimmy.xyz
 - https://notes.salman.io
